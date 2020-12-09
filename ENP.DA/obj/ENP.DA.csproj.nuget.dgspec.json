@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Naitik_Gondaliya\\01_Projects\\ENP.DA\\ENP.DA.csproj": {}
+  },
+  "projects": {
+    "E:\\Naitik_Gondaliya\\01_Projects\\ENP.DA\\ENP.DA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.DA\\ENP.DA.csproj",
+        "projectName": "ENP.DA",
+        "projectPath": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.DA\\ENP.DA.csproj",
+        "packagesPath": "C:\\Users\\Naitik Gondaliya\\.nuget\\packages\\",
+        "outputPath": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.DA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Naitik Gondaliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Naitik_Gondaliya\\01_Projects\\ENP.Model\\ENP.Model.csproj": {
+                "projectPath": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.Model\\ENP.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Naitik_Gondaliya\\01_Projects\\ENP.Model\\ENP.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.Model\\ENP.Model.csproj",
+        "projectName": "ENP.Model",
+        "projectPath": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.Model\\ENP.Model.csproj",
+        "packagesPath": "C:\\Users\\Naitik Gondaliya\\.nuget\\packages\\",
+        "outputPath": "E:\\Naitik_Gondaliya\\01_Projects\\ENP.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Naitik Gondaliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Naitik_Gondaliya\\01_Projects\\NugetPackageBuilder\\ShivOhm.Infrastructure.csproj": {
+                "projectPath": "E:\\Naitik_Gondaliya\\01_Projects\\NugetPackageBuilder\\ShivOhm.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Naitik_Gondaliya\\01_Projects\\NugetPackageBuilder\\ShivOhm.Infrastructure.csproj": {
+      "version": "1.0.2",
+      "restore": {
+        "projectUniqueName": "E:\\Naitik_Gondaliya\\01_Projects\\NugetPackageBuilder\\ShivOhm.Infrastructure.csproj",
+        "projectName": "ShivOhm.Infrastructure",
+        "projectPath": "E:\\Naitik_Gondaliya\\01_Projects\\NugetPackageBuilder\\ShivOhm.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Naitik Gondaliya\\.nuget\\packages\\",
+        "outputPath": "E:\\Naitik_Gondaliya\\01_Projects\\NugetPackageBuilder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Naitik Gondaliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "FluentMigrator.Abstractions": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "FluentMigrator.Console": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "FluentMigrator.Runner.Core": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "FluentMigrator.Runner.SqlServer": {
+              "target": "Package",
+              "version": "[3.2.9, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

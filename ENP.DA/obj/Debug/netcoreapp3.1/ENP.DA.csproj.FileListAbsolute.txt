@@ -1,0 +1,16 @@
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.DA.deps.json
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.DA.runtimeconfig.json
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.DA.runtimeconfig.dev.json
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.DA.dll
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.DA.pdb
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.Model.dll
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ENP.Model.pdb
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\obj\Debug\netcoreapp3.1\ENP.DA.csprojAssemblyReference.cache
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\obj\Debug\netcoreapp3.1\ENP.DA.AssemblyInfoInputs.cache
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\obj\Debug\netcoreapp3.1\ENP.DA.AssemblyInfo.cs
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\obj\Debug\netcoreapp3.1\ENP.DA.csproj.CopyComplete
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\obj\Debug\netcoreapp3.1\ENP.DA.dll
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\obj\Debug\netcoreapp3.1\ENP.DA.pdb
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\nlog.config
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ShivOhm.Infrastructure.dll
+E:\Naitik_Gondaliya\01_Projects\ENP.DA\bin\Debug\netcoreapp3.1\ShivOhm.Infrastructure.pdb
